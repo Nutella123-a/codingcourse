@@ -9,7 +9,7 @@ public class re2 {
 
 
         int value = 1;
-        while (firstNumber != -999 && ) {
+        while (firstNumber != -999 ) {
 
             System.out.println("first number: ");
             firstNumber = input.nextInt();
